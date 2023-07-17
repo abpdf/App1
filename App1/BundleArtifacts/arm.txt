@@ -1,0 +1,2 @@
+MainPackage=Z:\App1\App1\bin\ARM\Debug\App1_0.0.12.0_ARM_Debug.msix
+SymbolPackage=Z:\App1\App1\obj\ARM\Debug\Symbols\App1_0.0.12.0_ARM_Debug.appxsym
